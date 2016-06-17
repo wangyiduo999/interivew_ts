@@ -1,0 +1,8 @@
+offset = 4 + random + 1
+location = 1 + origin + offset
+origin = 3 +  5 + hard
+random = 2
+apple = random + 4
+test = origin + apple
+hard = 1
+tesla = hard + test
